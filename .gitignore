@@ -1,0 +1,20 @@
+.agents/
+.codex/
+.mcp.json
+
+# Logs and runtime output
+logs/
+*.log
+
+# Dependency and build output
+node_modules/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
